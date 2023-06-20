@@ -1,0 +1,23 @@
+.btn-success{
+    background-color: aqua;
+}
+.mybuttons{
+    margin: 20px;
+}
+.card{
+    margin: 20px;
+}
+.carousel{
+    width: 50%;
+    height: 50%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.accordion{
+    margin-top: 220px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.myclass{
+    margin: 20px;
+}
